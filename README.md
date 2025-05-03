@@ -28,7 +28,7 @@ Welcome to **CSV Data Visualizer** — a clean, interactive Flask app that reads
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/csv-data-visualizer.git
+git clone https://github.com/Shreyu-07/CSV-Data-Visualizer.git
 cd csv-data-visualizer
 ```
 
@@ -37,7 +37,9 @@ cd csv-data-visualizer
 Make sure you have Python installed, then run:
 
 ```bash
-pip install -r requirements.txt
+pip install flask
+pip install flask
+pip install request
 ```
 
 ### 3️⃣ Run the App
@@ -60,7 +62,8 @@ Here’s what the output will look like:
 * 📈 Plot: Name vs USN
   *(Make sure you have `data.csv` in the root folder with appropriate data.)*
 
-![App Screenshot](static/plot.png)
+![op3](https://github.com/user-attachments/assets/c0d18fdf-3161-4f3d-b249-6f259bd17dea)
+
 *(This is a placeholder — replace with your actual image or GitHub-hosted image link.)*
 
 ---
